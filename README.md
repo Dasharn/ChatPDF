@@ -1,6 +1,6 @@
 # ChatPDF - Question-Answering and Summarization Tool
 
-ChatPDF is a web application built with Streamlit that allows users to upload a PDF file, generate a summary of its content, and ask questions related to the PDF for automated answering. The application utilizes the OpenAI API for text summarization and question answering.
+ChatPDF is a web application built with Streamlit that allows users to upload a PDF file, generate a summary of its content, and ask questions related to the PDF for automated answering. The application utilizes the OpenAI API for text summarization and question answering. The goal of this application is to build a sort of learning platform allowing users to learn more efficiently.
 
 ## Features
 
